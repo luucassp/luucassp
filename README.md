@@ -24,7 +24,10 @@ a phone, and easy for the owner to keep updated.
 Built for a Dublin sightseeing operator launching a new guided bike-tour line, replacing the
 WordPress site they had outgrown. Interactive 3D route map, scroll-driven storytelling through
 the tour stops, pricing and private hire flows.
-<br>**Next.js 16 · React 19 · TypeScript · Tailwind CSS v4**
+
+Ships with a password-protected admin panel so **their marketing team publishes discounts and
+campaign popups without a developer** — no deploy, no code, no waiting on me.
+<br>**Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Supabase**
 <br>→ [Live site](https://city-sightseeing-bike-tours.vercel.app)
 
 #### 🏋️ [MAYRENCROSFIT](https://github.com/luucassp/mayrencrosfit)
