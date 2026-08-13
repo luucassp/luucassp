@@ -21,8 +21,9 @@ a phone, and easy for the owner to keep updated.
 ### Selected work
 
 #### 🚲 [Sightseeing Bike Tours — Dublin](https://github.com/luucassp/City-Sightseeing-Bike-Tours) · `client work`
-Marketing and booking site built for a guided bike tour operator here in Dublin. Interactive
-3D route map, scroll-driven storytelling through the tour stops, pricing and private hire flows.
+Built for a Dublin sightseeing operator launching a new guided bike-tour line, replacing the
+WordPress site they had outgrown. Interactive 3D route map, scroll-driven storytelling through
+the tour stops, pricing and private hire flows.
 <br>**Next.js 16 · React 19 · TypeScript · Tailwind CSS v4**
 <br>→ [Live site](https://city-sightseeing-bike-tours.vercel.app)
 
@@ -32,8 +33,9 @@ no backend, no login — with JSON export/import to move data between devices.
 <br>**React 18 · Vite 6 · Tailwind v4 · 101 Vitest tests · GitHub Actions CI**
 <br>→ [Live app](https://imc-neon.vercel.app)
 
-#### 🗺️ [Traveland](https://github.com/luucassp/Traveland)
-Travel destination site with internationalization and interactive maps.
+#### 🗺️ [Traveland](https://github.com/luucassp/Traveland) · `concept`
+The redesign proposal that won the engagement above — a full hop-on hop-off tour site in
+6 languages and 3 currencies, built to show a WordPress-bound operator what was possible.
 <br>**Next.js · TypeScript · Leaflet · i18n**
 <br>→ [Live site](https://traveland-kappa.vercel.app)
 
