@@ -26,7 +26,7 @@ scroll-driven storytelling, pricing and private hire flows.
 <br>**Next.js 16 · React 19 · TypeScript · Tailwind CSS v4**
 <br>→ [Live site](https://city-sightseeing-bike-tours.vercel.app)
 
-#### 🏋️ [MAYRENCROSFIT](https://github.com/luucassp/SLtreiners)
+#### 🏋️ [MAYRENCROSFIT](https://github.com/luucassp/mayrencrosfit)
 CrossFit training app built around a programmed monthly cycle. Runs fully in the browser —
 no backend, no login — with JSON export/import to move data between devices.
 <br>**React 18 · Vite 6 · Tailwind v4 · 101 Vitest tests · GitHub Actions CI**
