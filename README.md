@@ -20,9 +20,9 @@ a phone, and easy for the owner to keep updated.
 
 ### Selected work
 
-#### 🚲 [Sightseeing Bike Tours — Dublin](https://github.com/luucassp/City-Sightseeing-Bike-Tours)
-Marketing and booking site for a guided bike tour operator. Interactive 3D route map,
-scroll-driven storytelling through the tour stops, pricing and private hire flows.
+#### 🚲 [Sightseeing Bike Tours — Dublin](https://github.com/luucassp/City-Sightseeing-Bike-Tours) · `client work`
+Marketing and booking site built for a guided bike tour operator here in Dublin. Interactive
+3D route map, scroll-driven storytelling through the tour stops, pricing and private hire flows.
 <br>**Next.js 16 · React 19 · TypeScript · Tailwind CSS v4**
 <br>→ [Live site](https://city-sightseeing-bike-tours.vercel.app)
 
