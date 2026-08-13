@@ -29,9 +29,9 @@ the tour stops, pricing and private hire flows.
 
 #### 🏋️ [MAYRENCROSFIT](https://github.com/luucassp/mayrencrosfit)
 CrossFit training app built around a programmed monthly cycle. Runs entirely in the browser —
-no backend, no login — with JSON export/import to move data between devices.
-<br>**React 18 · Vite 6 · Tailwind v4 · 101 Vitest tests · GitHub Actions CI**
-<br>→ [Live app](https://imc-neon.vercel.app)
+no backend, no user accounts — with JSON export/import to move data between devices.
+<br>**React 18 · Vite 6 · Tailwind v4 · 67 Vitest tests · GitHub Actions CI**
+<br>→ [Source](https://github.com/luucassp/mayrencrosfit) (the live app sits behind a passphrase)
 
 #### 🗺️ [Traveland](https://github.com/luucassp/Traveland) · `concept`
 The redesign proposal that won the engagement above — a full hop-on hop-off tour site in
