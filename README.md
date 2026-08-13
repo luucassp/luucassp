@@ -1,20 +1,20 @@
 ## Sergio Lucas Pereira
 
-**I build fast, conversion-focused websites for small businesses — tourism, local services, and studios.**
+**I build fast, conversion-focused websites for small businesses in Dublin.**
 
 Front-end developer working with Next.js, React and TypeScript. I take a business from
-"we don't have a site" (or "our site doesn't sell") to something live, fast on a phone,
-and easy for the owner to keep updated.
+"we don't have a site" — or "our site doesn't bring anyone in" — to something live, fast on
+a phone, and easy for the owner to keep updated.
 
-📍 Porto Alegre, Brazil · working remotely · 🌐 **[Portfolio](https://portfolio-ashy-six-24.vercel.app)** · ✉️ sergio.lucas.ferrari360@gmail.com
+📍 Dublin, Ireland · also available remotely · 🌐 **[Portfolio](https://portfolio-ashy-six-24.vercel.app)** · ✉️ sergio.lucas.ferrari360@gmail.com
 
 ---
 
 ### What I do
 
-- **Marketing & booking sites** that load fast and read well on a phone — where most of the traffic actually is
-- **Content owners can edit** — I document every project so the client isn't locked to me
-- **Built to be maintained** — TypeScript, tested logic, CI on every push
+- **Marketing and booking sites** that load fast and read well on a phone — where most of your customers actually are
+- **Documented so you're not locked to me** — every project ships with a plain-English guide to changing your own content
+- **Built to last** — TypeScript, tested logic, CI running on every change
 
 ---
 
@@ -22,12 +22,12 @@ and easy for the owner to keep updated.
 
 #### 🚲 [Sightseeing Bike Tours — Dublin](https://github.com/luucassp/City-Sightseeing-Bike-Tours)
 Marketing and booking site for a guided bike tour operator. Interactive 3D route map,
-scroll-driven storytelling, pricing and private hire flows.
+scroll-driven storytelling through the tour stops, pricing and private hire flows.
 <br>**Next.js 16 · React 19 · TypeScript · Tailwind CSS v4**
 <br>→ [Live site](https://city-sightseeing-bike-tours.vercel.app)
 
 #### 🏋️ [MAYRENCROSFIT](https://github.com/luucassp/mayrencrosfit)
-CrossFit training app built around a programmed monthly cycle. Runs fully in the browser —
+CrossFit training app built around a programmed monthly cycle. Runs entirely in the browser —
 no backend, no login — with JSON export/import to move data between devices.
 <br>**React 18 · Vite 6 · Tailwind v4 · 101 Vitest tests · GitHub Actions CI**
 <br>→ [Live app](https://imc-neon.vercel.app)
@@ -48,8 +48,9 @@ Travel destination site with internationalization and interactive maps.
 
 ### Available for freelance work
 
-If you run a business and your site isn't bringing people in — or you don't have one yet —
-send me a message. I'll tell you honestly whether I'm the right person for it.
+Run a business in Dublin and your website isn't bringing people through the door — or you
+don't have one yet? Send me a message. I'll tell you honestly whether I'm the right person
+for the job.
 
 [![Email](https://img.shields.io/badge/Email-sergio.lucas.ferrari360@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sergio.lucas.ferrari360@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Lucas_Pereira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergiolucaspereira)
